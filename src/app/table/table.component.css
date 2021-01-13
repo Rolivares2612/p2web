@@ -1,0 +1,21 @@
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+   
+  }
+  
+  
+  .gris {
+   z-index: 1;
+   
+  }
+  .margin-left{
+    margin-left: 80px !important;
+  }
+  
+  
+  .form {
+    width: 450px;
+  }
